@@ -1,0 +1,2 @@
+# React useEffect Cleanup and Dependency Issues
+This repository demonstrates a common issue related to useEffect hooks in React 18 and 19: improper cleanup and dependency management.  Improper handling can lead to memory leaks or unexpected behavior.  The `bug.js` file shows the problematic code, while `bugSolution.js` provides the corrected version.
